@@ -1,6 +1,0 @@
-#include<iostream>
-
-int main(){
-    std::cout << "I like pizza and pasta!" << std::endl;
-    return 0;
-}
